@@ -99,7 +99,6 @@ export default function CompleteProfileEdit() {
     <Flex
       align="center"
       justify="center"
-      
     >
       <Stack
         spacing={4}

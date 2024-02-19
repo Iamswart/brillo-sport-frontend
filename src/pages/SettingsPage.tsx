@@ -6,7 +6,7 @@ import SettingsComponent from "../components/Settings";
 
 function SettingsPage() {
   return (
-    <Flex direction="column" height="100vh" backgroundColor="white">
+    <Flex direction="column" backgroundColor="white">
       <ProfileNavbar />
       <SettingsComponent />
     </Flex>
