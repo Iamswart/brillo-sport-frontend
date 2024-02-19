@@ -115,7 +115,6 @@ export default function ChangePasswordForm() {
 
   return (
     <Flex
-      minH={"100vh"}
       align={"center"}
       justify={"center"}
     >
