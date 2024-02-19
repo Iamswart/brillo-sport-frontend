@@ -48,7 +48,7 @@ These instructions will get you a copy of the project up and running on your loc
     VITE_API_BASE_URL='The base URL of your backend API'
     VITE_API_KEY='API key for accessing your backend services'
 
-    Replace the placeholders with your actual database configuration and Django secret key.
+    Replace the placeholders with your backend base url and x-api-key.
 
 4. **Running the Application**
     ```bash
