@@ -97,7 +97,6 @@ export default function CompleteProfileEdit() {
 
   return (
     <Flex
-      minH="100vh"
       align="center"
       justify="center"
       
